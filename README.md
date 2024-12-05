@@ -21,6 +21,6 @@
 
 ## Information:
 - 🌱 I am currently learning: React Native
-- 📫 Contact me: <a href="mailto:emiliofgonzalez7@gmail.com">LinkedIn</a> or <a href="https://www.linkedin.com/in/emiliotsx">LinkedIn</a>
+- 📫 Contact me: <a href="mailto:emiliofgonzalez7@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/emiliotsx">LinkedIn</a>
 
 **[Visit my website &rarr;](https://emiliogonzalez.dev/)**
